@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f41a8f9a-2b69-41a8-b3e3-c5bebba2ee80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="4df753933b621145" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bYC4Ztq4usalqiP2Y8MNTzCyZJ" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Dart" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f41a8f9a-2b69-41a8-b3e3-c5bebba2ee80" name="Default Changelist" comment="" />
+      <created>1588799449176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588799449176</updated>
+      <workItem from="1588799490190" duration="7775000" />
+      <workItem from="1588969382050" duration="992000" />
+      <workItem from="1588970583027" duration="2436000" />
+      <workItem from="1588987127542" duration="252000" />
+      <workItem from="1588987533455" duration="3094000" />
+      <workItem from="1589068668258" duration="354000" />
+      <workItem from="1589069076826" duration="9954000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1849" y="90" key="#com.intellij.ide.util.MemberChooser" timestamp="1588803094703">
+      <screen x="1366" y="0" width="1024" height="728" />
+    </state>
+    <state x="1849" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1024.728@1366.0.1024.728" timestamp="1588803094703" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1588969437163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588969437163" />
+    <state width="981" height="131" key="GridCell.Tab.0.bottom" timestamp="1588863983070">
+      <screen x="1366" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="131" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1024.728@1366.0.1024.728" timestamp="1588863983070" />
+    <state width="981" height="131" key="GridCell.Tab.0.center" timestamp="1588863983069">
+      <screen x="1366" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="131" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1024.728@1366.0.1024.728" timestamp="1588863983069" />
+    <state width="981" height="131" key="GridCell.Tab.0.left" timestamp="1588863983069">
+      <screen x="1366" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="131" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1024.728@1366.0.1024.728" timestamp="1588863983069" />
+    <state width="981" height="131" key="GridCell.Tab.0.right" timestamp="1588863983070">
+      <screen x="1366" y="0" width="1024" height="728" />
+    </state>
+    <state width="981" height="131" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1024.728@1366.0.1024.728" timestamp="1588863983070" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1588970389621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1024.728@0.0.1366.728" timestamp="1588970389621" />
+    <state x="1541" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1588801418011">
+      <screen x="1366" y="0" width="1024" height="728" />
+    </state>
+    <state x="1541" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1024.728@1366.0.1024.728" timestamp="1588801418011" />
+  </component>
+</project>

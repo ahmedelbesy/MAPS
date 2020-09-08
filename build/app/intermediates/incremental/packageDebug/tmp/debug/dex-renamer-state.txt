@@ -1,0 +1,4 @@
+#Sun May 10 02:20:13 EET 2020
+base.0=E\:\\work\\google_map\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
